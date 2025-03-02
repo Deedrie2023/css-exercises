@@ -1,0 +1,21 @@
+
+ 
+
+ .first-p, .sec-p, .third-p {
+    background-color: rgb(224, 109, 185);
+    font-family:'sans-serif','Verdana','DejaVu Sans' ;
+ } 
+
+ #div-one{
+   color: blue;
+   font-size: 18px;
+
+ }
+ .sec-p{
+   font-size: 24px;
+ }
+ #div-two{
+   background-color: lightgreen;
+   font-size: 24px;
+   font-weight: bold;
+ }
