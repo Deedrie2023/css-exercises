@@ -3,7 +3,11 @@
 html, body {
   height: 100%;
 }
+.header{
+ display:flex;
+ justify-content: space-around;
 
+}
 body {
   font-family: Roboto, sans-serif;
   margin: 0;
